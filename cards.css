@@ -1,0 +1,41 @@
+@media screen and (max-width: 300px) { 
+
+    .card-img-top { display: none; } }  
+    
+
+div.card {
+    margin: 4px;
+}
+
+.card-hover-text{
+    display: none;
+}
+
+.card:hover .card-text{
+    display: none;
+}
+
+.card:hover .tech-stack{
+    display: none;
+}
+
+.card:hover .card-hover-text{
+    display: block;
+}
+
+.card:hover .card-img-top{
+    padding: 4%;
+}
+
+
+
+.tech-stack li{
+    display: inline;
+    background-color: rgba(248, 50, 0, 0.338);
+    padding-left: 3px;
+    padding-right: 3px;
+
+    margin: 2px 2px 2px 2px;
+    border-radius: 25%;
+    font-weight: bold;
+}

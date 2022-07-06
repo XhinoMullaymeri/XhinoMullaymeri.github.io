@@ -1,13 +1,71 @@
 
-.name {
-    color: red
+.main-name-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
 }
 
-section {
-    height:100vh;
-    width: 100vw;
+.main-name {
+    font-weight: 900;
+    font-size: 250%;
+    color: black;
+    display: inline;
 }
+
+.main-name-i {
+    font-weight: 900;
+    font-size: 250%;
+    color: black;
+    display: inline;
+    margin-left: 8px;
+}
+
+.main-name-i:hover {
+    font-weight: 900;
+    font-size: 600;
+    color: red;
+    animation: jelly 0.65s;
+    transition: all 0.05s;
+}
+
+@keyframes jelly{
+    25%{
+        transform: scale(0.5,1.4);
+    }
+    50%{
+        transform: scale(1.1,0.8);
+    }
+    75%{
+        transform: scale(0.7,1.2);
+    }
+    100%{
+        transform: scale(1,1);
+    }
+}
+
+
+.Section {
+    min-height: 100vh;
+    height: auto;
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    display: block;
+}
+
+
+
 
 #CV h2 {
     color: blue;
+}
+
+.main-container{
+    margin-top: 20px;
+    display: block;
+}
+
+.keyword {
+    color: rgb(0, 255, 242);
 }

@@ -1,0 +1,28 @@
+#btn-submit-email{
+    margin-top: 10px;
+}
+
+#contact-name{
+    max-width: 350px;
+    margin-bottom: 20px;
+}
+
+#contact-email{
+    max-width: 350px;
+    margin-bottom: 20px;
+}
+
+#contact-message{
+    max-width: 700px;
+    margin-bottom: 20px;
+}
+
+.form-control{
+    justify-content: center;
+    margin:auto;
+    margin-top: 10px;
+}
+
+div.form-group{
+    justify-content: center;
+}

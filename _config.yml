@@ -21,8 +21,8 @@
 title: Social Data Analysis and Visualization 2024 DTU
 email: s223481@dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
-  As a part of the course 02806 Social Data Analysis and Visualization at the Technical University of Denmark assignment 2, 
-  a blog is created to showcase the ...
+ Assignment for 02806 Social Data Analysis and Visualization at the Technical University of Denmark <br> 
+ Xhino Mullaymeri s223481@dtu.dk 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: XMullaymeri
@@ -34,7 +34,10 @@ domain: XhinoMullaymeri.github.io
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+
+show_downloads: False
 
 # Exclude from processing.
 # The following items will not be processed, by default.

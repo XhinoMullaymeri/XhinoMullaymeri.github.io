@@ -12,3 +12,7 @@ The map in Figure 2 shows the distribution of DUI incidents in San Francisco. Th
        >
 
 Figure 2: The map shows the distribution of DUI incidents in San Francisco. The color of the districts represents the number of incidents, with lgiht colors indicating a higher number of incidents.
+
+
+## Add this 
+https://sfstandard.com/2023/10/08/san-francisco-binge-drinking-neighborhoods/

@@ -14,4 +14,5 @@ layout: default
 
 {% include part_3.markdown %}
 
-{% include assignment_details.markdown %}
+
+{% include conclusion.markdown %}

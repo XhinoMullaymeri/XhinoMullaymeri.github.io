@@ -8,4 +8,4 @@ This clearly indicates that the there are cetrain times that the lawful resourse
   <img src="/../figures/output.png" alt="Polarplot hours" height="600" >
 </p>
 
-Figure 1: The left plot shows the number of DUI incidents per hour of the day, x-axis represents year and y-axis represents the number of incidents. The right plot shows the number of DUI incidents per hour of the day of the week. The dual x axis is used to show the hours of the day and the days of the week while the y axis shows the number of incidents.
+**Figure 1:** The left plot shows the number of DUI incidents per hour of the day, x-axis represents year and y-axis represents the number of incidents. The right plot shows the number of DUI incidents per hour of the day of the week. The dual x axis is used to show the hours of the day and the days of the week while the y axis shows the number of incidents.

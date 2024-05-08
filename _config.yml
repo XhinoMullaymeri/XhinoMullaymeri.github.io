@@ -21,7 +21,7 @@
 title: Investigating DUI incidents in San Francisco
 email: s223481@dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
- Assignment for 02806 Social Data Analysis and Visualization at the Technical University of Denmark <br> 
+ Assignments for 02806 Social Data Analysis and Visualization at the Technical University of Denmark <br> 
  Xhino Mullaymeri s223481@dtu.dk 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -38,6 +38,10 @@ plugins:
 
 
 show_downloads: False
+
+include:
+  - _pages
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

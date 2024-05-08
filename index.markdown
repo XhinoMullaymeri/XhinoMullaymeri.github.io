@@ -1,18 +1,7 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: default
----
-
-{% include introduction.markdown %}
 
 
-{% include part_1.markdown %}
-
-{% include part_2.markdown %}
-
-{% include part_3.markdown %}
+# 02806 Social Data Analysis and Visualization Projects
 
 
-{% include conclusion.markdown %}
+## [Project 2: San Francisco Crime Data Analysis]({{ site.baseurl }}/project-2/)
+## [Final Project: Airbnb Landscape of Copenhagen]({{ site.baseurl }}/final-project/)

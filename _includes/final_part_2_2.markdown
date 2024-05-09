@@ -1,23 +1,4 @@
-<img src="../assets/main.webp" width="800" height="400" alt="Copenhagen with airbnb flag">
-
-# Introduction
-The rapid proliferation of Airbnb listings has transformed urban landscapes, raising questions about their impact on housing markets. In Copenhagen, a city known for its high living standards, the growth of Airbnb has sparked concerns regarding housing affordability. This project analyzes extensive data from Airbnb to explore trends in listings, their distribution, and price dynamics in Copenhagen. Through this analysis, we aim to provide insights into the Airbnb landscape in Copenhagen.
-
-# Airbnb listings through time
-The number of Airbnb listings in Copenhagen has grown exponentially over the years, with a significant increase observed from 2022 to 2023 as shown in image 1. This growth has raised concerns about the impact on the housing market and affordability in the city. The interactive visualization below illustrates the evolution of Airbnb listings in Copenhagen from 2010 to 2024. 
-
-<embed
-       type="text/html" 
-       src="/../figures/listings_per_month.html"
-       height="500"
-       width="100%"
-       >
-
-**Figure 1:** The interactive visualization displays the number of Airbnb listings in Copenhagen from 2010 to 2024. Users can filter the data by year and month to observe the trends in listings over time.
-
-A noticable drop can be observed in the number of listings in 2020, which can be attributed to the COVID-19 pandemic. The subsequent recovery and growth in listings post-pandemic highlight the resilience of the Airbnb market in Copenhagen.
-
-# Airbnb listings through space
+## Airbnb listings through space
 The spatial distribution of Airbnb listings in Copenhagen reveals interesting patterns. The map below shows the concentration of listings in different neighborhoods of the city. The central areas, such as Indre By and Vesterbro, have a higher density of listings compared to the outskirts. This concentration raises concerns about the impact on local communities and housing availability.
 
 <embed

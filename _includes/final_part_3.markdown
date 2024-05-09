@@ -1,0 +1,2 @@
+# Conclusion
+The analysis of Airbnb listings in Copenhagen highlights the rapid growth of the platform and its impact on the city's housing market. The spatial distribution of listings, ownership patterns, and price dynamics reveal important trends that warrant further investigation. By exploring the Airbnb landscape of Copenhagen, we aim to provide valuable insights into the evolving dynamics of urban housing markets and the role of short-term rentals in shaping cities.

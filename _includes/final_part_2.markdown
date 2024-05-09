@@ -1,3 +1,5 @@
+<br>
+
 # Lets investigate the airbnb landscape in Copenhagen
 
 {% include final_part_2_1.markdown %}

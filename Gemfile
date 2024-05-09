@@ -15,6 +15,8 @@ gem 'faraday-retry'
 gem 'webrick', '~> 1.7'
 
 
+gem 'jekyll-sass-converter', '1.5.2'
+
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.

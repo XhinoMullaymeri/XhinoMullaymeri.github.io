@@ -1,4 +1,3 @@
-<br>
 
 # Lets investigate the airbnb landscape in Copenhagen
 

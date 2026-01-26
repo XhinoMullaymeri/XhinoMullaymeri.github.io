@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI Engineer ,  xmullaymeri@gmail.com
+subtitle: AI Engineer
 
 profile:
   align: right
   image: xhino_temp_prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Copenhagen, Denmark</p>
 

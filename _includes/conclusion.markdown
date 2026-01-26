@@ -1,4 +1,0 @@
-# Conclusion
-In this project, we dove into analyzing San Francisco DUI incidents from 2003 to 2017. Our analysis brought to light that certain days and times, especially weekends, see a higher number of DUI incidents. We also pinpointed that districts recording the highest number of DUI incidents are situated in the central and northern parts of the city, with Mission district standing out. These are the same districts bustling with nightlife and entertainment venues. Lastly, to underscore the importance of preventing DUI incidents, we enriched our analysis with traffic crash data. Our findings indicate that the areas with the highest accident rates also report the most DUI incidents. This clearly signals that police forces need to ramp up their alertness and activity in these areas to curb DUI incidents, which are more prone to result in severe or fatal accidents.
-
-# Do not drink and drive! Stay safe!

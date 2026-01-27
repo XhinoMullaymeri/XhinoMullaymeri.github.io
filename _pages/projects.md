@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false # TODO: Xhino set true and add projects
+# description:
+nav: true # TODO: Xhino set true and add projects
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [fun] # [work, fun]
 horizontal: false
 ---
 

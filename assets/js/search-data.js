@@ -452,6 +452,11 @@ ninja.data = [{
           description: "Interactive guide to Copenhagen Dining Week restaurants",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dining-week/";
+            },},{id: "projects-league-of-fusions",
+          title: 'League of Fusions',
+          description: "League of Legends character fusion quiz game; self hosted and powered by Dall-E 2.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/league-of-fusions/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",

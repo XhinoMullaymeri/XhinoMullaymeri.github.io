@@ -177,6 +177,12 @@ ul.task-list input[type="checkbox"] {
     padding-top: 1.25rem;
   }
 
+.card-img-top {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover; /* or contain */
+  }
+
   .card-title {
     color: var(--global-text-color);
   }
